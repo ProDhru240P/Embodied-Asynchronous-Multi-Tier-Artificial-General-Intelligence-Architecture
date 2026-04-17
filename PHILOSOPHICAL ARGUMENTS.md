@@ -28,9 +28,12 @@ We might not know as to what consciousness is, but functional equivalence strong
 
 ### What Makes Humans conscious?
 The consciousness of a Human System is a result of not only the brain but also the body that feeds the brain the constant source of inputs essentially forcing the brain to be aware of its surroundings.
+
 The way we can mimic this setup is by giving the theorized AI model a body that can act and sense the way our body does and with similar constraints. This body is what we will call the mortal body constraint. Giving the AI a Mortal Body will result in solving most of our problems regarding the consciousness debate. We may talk about it later.
+
 Our motive right now is to recognize the fact that while the Mortal Body is an important piece in creating an Intelligent being, It is also not possible without having a perfect brain.
 The brain (and spinal cord) is a complex system of only a few types of cells. The most important type out of them is the neuron. The neuron is one of the few cells in body that has the ability to generate its own signals and transmit selected signals through it. Resultant interactions in the network of these cells is what governs all our actions and the way we think.
+
 Some of the properties of neurons and the supporting cells are as follows:
 - Recieving Signals
 - Distributing Signals
@@ -42,7 +45,10 @@ The neurons that we currently use in our neural networks comprise of nodes and p
 - Recieving Signals
 - Distributing Signals
 - Modifying Signals(Any Mathematical Function the situation desires)
+- 
 As we can see, the artificial neurons are unable to perform all the functions that a Biological Neurons can. This gives us some real limitations in making our model since we are trying to make the setup identical to biological one.
+
 This lack of functions is not due to lack of knowledge, it is due to the lack of right hardware. Our current Hardware of choice for AI is GPU, which is known for its capabilities in batch processes. But that is the aspect that is unable to provide us with valid inteligent models.
 Since GPUs use Batch processing, they rely on bulk synchronized inputs. This eliminates the ability to introduce delays. Another aspect of biological neurons is that they can attach to other neurons in a 3 dimensional network. This means that those neurons can connect to other neurons that would be backward in the flow or maybe forward in the flow. That is similar to introducing Back-wiring and layer-jumping capabilities. This complicates things with our hardware even further. Introducing Layer-jumping and Back-wiring introduce signal loops effectively breaking the batches into smaller chunks in the Model this would mean that Batch processing would not be able to solve this Model. The batch processing, the main strong point of a GPU, is the very thing that is ruining further development in AI.
+
 In order to create a model that performs like a Human, We Need to make a brain that is similar to a human and a body that is similar to a human. This is the core idea behind this Thesis.
