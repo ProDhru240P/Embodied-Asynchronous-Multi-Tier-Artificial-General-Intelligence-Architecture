@@ -45,7 +45,7 @@ The neurons that we currently use in our neural networks comprise of nodes and p
 - Recieving Signals
 - Distributing Signals
 - Modifying Signals(Any Mathematical Function the situation desires)
-- 
+
 As we can see, the artificial neurons are unable to perform all the functions that a Biological Neurons can. This gives us some real limitations in making our model since we are trying to make the setup identical to biological one.
 
 This lack of functions is not due to lack of knowledge, it is due to the lack of right hardware. Our current Hardware of choice for AI is GPU, which is known for its capabilities in batch processes. But that is the aspect that is unable to provide us with valid inteligent models.
